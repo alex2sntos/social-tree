@@ -6,7 +6,7 @@
 
 Projeto construído dentro da plataforma da Rocketseat.
 
-[Clique aqui para acessar](https://alex2sntos.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://alex2sntos.github.io/social-tree/)
 
 ## 🚀 Tecnologias
 
